@@ -15,4 +15,5 @@ defined. p-valuesare obtained by dividing the number of simulations that resulte
 change as great as or greater than the observed allele frequency at the end of the interval of interest by the total number of 
 simulations run. 
 
+Data from the paper is provided in Four_allele_comp_freqs.txt as a working example.
 
